@@ -1,0 +1,1 @@
+Used Python 3 for this task, implemented linear regression algorithm to predict price based of factors like Ratings and development costs. The predicted price was then compared with the user entered price and based on the result the negotiation was carried out. Tkinter Bootstrap was used for front end GUI for a minimal look.
